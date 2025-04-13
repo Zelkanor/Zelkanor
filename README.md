@@ -1,5 +1,5 @@
 # 💫 About Me:
-Co-Founder of EVYo!<br>Full Stack Flutter and MERN Developer <br>Working on building scalable and production ready applications<br>Currently learning DevOps
+  <br>Full Stack Flutter and MERN Developer <br>Working on building scalable and production ready applications<br>Currently learning DevOps
 
 
 ## 🌐 Socials:
